@@ -1,0 +1,4 @@
+﻿  13laba.cpp
+C:\Users\user\source\repos\13laba\13laba\13laba.cpp(24,17): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\user\source\repos\13laba\13laba\13laba.cpp(63,11): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+  13laba.vcxproj -> C:\Users\user\source\repos\13laba\x64\Debug\13laba.exe
